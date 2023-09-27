@@ -8,7 +8,7 @@
       "@language" : "en"
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-    "_url" : "file:///home/jorrit/proj/globi/data-new/knowledgepixels/get-taxontaxon-nanopubs.csv",
+    "_url" : "get-taxontaxon-nanopubs.csv",
     "url" : "https://grlc.knowledgepixels.com/api-git/knowledgepixels/bdj-nanopub-api/get-taxontaxon-nanopubs.csv",
     "dcterms:bibliographicCitation" : "Species Interactions as published in nanopublications available through Biodiversity Data Journal and Knowledge Pixels.",
     "delimiter" : ",",
