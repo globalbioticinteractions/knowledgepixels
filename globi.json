@@ -27,12 +27,20 @@
         "titles" : "subjtaxonname",
         "datatype" : "string"
       }, {
+        "name" : "sourceTaxonName",
+        "titles" : "subjtaxonlabel",
+        "datatype" : "string"
+      }, {
         "name" : "interactionTypeId",
         "titles" : "rel",
         "datatype" : "string"
       }, {
         "name" : "targetTaxonId",
         "titles" : "objtaxonname",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "objtaxonlabel",
         "datatype" : "string"
       }, {
         "name" : "referenceDoi",
